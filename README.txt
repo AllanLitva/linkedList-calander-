@@ -1,5 +1,3 @@
-Author :  Allan Litva, Dr. Christine Laurendeau
-
 Purpose: To simulate a linked list structure that holds structure data 
 
 Files: file folder a3 which contains ( a3.c , in.txt)
